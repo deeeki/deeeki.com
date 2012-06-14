@@ -24,12 +24,13 @@
   text-indent: -9999px;
   display: inline-block;
   width: 256px;
-  height: 256px;
+  height: 234px;
   background-image: url(kuro-256.png);
   background-color: #efefef;
 }
 
 body {
+  padding-top: 40px;
   padding-bottom: 20px;
 }
 h1 {
@@ -52,27 +53,27 @@ a:hover {
 
 .mail {
   @include icons();
-  background-position: left 3328px;
+  background-position: left 3317px;
 }
 .web {
   @include icons();
-  background-position: left 3072px;
+  background-position: left 3061px;
 }
 .twitter {
   @include icons();
-  background-position: left 2816px;
+  background-position: left 2805px;
 }
 .github {
   @include icons();
-  background-position: left 2304px;
+  background-position: left 2293px;
 }
 .facebook {
   @include icons();
-  background-position: left 1024px;
+  background-position: left 1013px;
 }
 .hatena {
   @include icons();
-  background-position: left 1280px;
+  background-position: left 1269px;
 }
 
 .bottomspace {
