@@ -1,0 +1,43 @@
+.row.bottomspace.center
+  .span4
+    = link_to 'Twitter', 'https://twitter.com/deeeki', class: 'twitter'
+  .span4
+    = link_to 'GitHub', 'https://github.com/deeeki', class: 'github'
+  .span4
+    = link_to 'Facebook', 'http://www.facebook.com/deeeki', class: 'facebook'
+
+.row.bottomspace.center
+  .span4
+    <a href="http://www.amazon.co.jp/exec/obidos/ASIN/B005MWBZL4/111122130-22/" title="Culdcept 3DS" target="_blank"><img src="http://ecx.images-amazon.com/images/I/618ZgrmvrhL._SL256_.jpg" border="0" /></a>
+  .span4
+    %h1 deeeki
+    %p Web Engineer (Ruby/Rails)
+    #display
+      \.-_-.
+  .span4
+    = link_to image_tag('icon.png'), 'http://coderwall.com/deeeki', title: 'coderwall'
+
+.row.bottomspace.center
+  .span4
+    = link_to 'Blog', 'http://d.hatena.ne.jp/deeeki/', class: 'web'
+  .span4
+    = link_to 'Contact me', 'deeeki at gmail.com', class: 'mail'
+  .span4
+    = link_to 'Blog', 'http://deeeki.hatenablog.com/', class: 'web'
+
+:javascript
+  $(function(){
+    $('a').mouseover(function(){
+      txt = $(this).attr('title') ? $(this).attr('title') : $(this).text();
+      if (txt == 'Culdcept 3DS') {
+        txt += "<br />Let's play with me!!"
+      }
+      else {
+        txt += '<br />' + $(this).attr('href');
+      }
+      $('#display').html(txt);
+    }).mouseout(function(){
+      $('#display').text('.-_-.');
+    });
+    $('a.mail').click(function(){ return false; });
+  });
