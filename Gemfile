@@ -12,3 +12,4 @@ gem 'sdoc', group: :doc
 gem 'spring', group: :development
 
 gem 'github-markdown'
+gem 'actionpack-page_caching'
