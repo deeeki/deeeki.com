@@ -38,6 +38,7 @@ GEM
     coffee-script-source (1.7.0)
     erubis (2.7.0)
     execjs (2.0.2)
+    github-markdown (0.6.5)
     hike (1.2.3)
     i18n (0.6.9)
     jbuilder (2.0.6)
@@ -114,6 +115,7 @@ PLATFORMS
 
 DEPENDENCIES
   coffee-rails
+  github-markdown
   jbuilder
   jquery-rails
   rails
