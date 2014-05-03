@@ -19,6 +19,7 @@
 * [RubyGems.org](https://rubygems.org/profiles/deeeki)
 * [connpass](http://connpass.com/user/deeeki/open/)
 * [Facebook](https://www.facebook.com/deeeki)
+* [Amazon::Wishlist](http://www.amazon.co.jp/wishlist/2288GWNY184BN/)
 
 ## Contact
 
