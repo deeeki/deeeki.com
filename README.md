@@ -3,7 +3,7 @@
 * Freelance web programmer (mainly use Ruby/Rails)
 * [Geekhouse](http://geekhouse.tumblr.com/) inhabitant in Japan
 * Interest
- * Team development / English / Investment / Shogi / Football
+ * Team development / Working abroad / Board game / Investment
 
 ## Links
 
