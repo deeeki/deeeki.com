@@ -5,8 +5,6 @@
 * Interest
  * Team development / English / Investment / Shogi / Football
 
-![](http://photos-g.ak.instagram.com/hphotos-ak-ash/926940_762309807136694_294060265_s.jpg) ![](http://photos-f.ak.instagram.com/hphotos-ak-ash/1173129_1403046746608709_812455335_s.jpg) ![](http://distilleryimage8.ak.instagram.com/3069c326c08b11e38c230002c9c7c81c_5.jpg) ![](http://distilleryimage1.s3.amazonaws.com/59a71148ab4d11e2a5f122000a1f96b9_5.jpg)
-
 ## Links
 
 * [Twitter](https://twitter.com/deeeki)
